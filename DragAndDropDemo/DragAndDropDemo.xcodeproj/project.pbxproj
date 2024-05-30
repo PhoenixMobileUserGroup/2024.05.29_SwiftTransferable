@@ -18,6 +18,7 @@
 		EF6763292C07F11600BD878D /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF6763282C07F11600BD878D /* PhotoView.swift */; };
 		EF67632B2C07F2C700BD878D /* Photo.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF67632A2C07F2C700BD878D /* Photo.swift */; };
 		EF67632D2C07F41500BD878D /* CustomPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF67632C2C07F41500BD878D /* CustomPhotoView.swift */; };
+		EF67632F2C07F71300BD878D /* UTTypeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF67632E2C07F71300BD878D /* UTTypeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		EF6763282C07F11600BD878D /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
 		EF67632A2C07F2C700BD878D /* Photo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo.swift; sourceTree = "<group>"; };
 		EF67632C2C07F41500BD878D /* CustomPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPhotoView.swift; sourceTree = "<group>"; };
+		EF67632E2C07F71300BD878D /* UTTypeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UTTypeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 				EF6763282C07F11600BD878D /* PhotoView.swift */,
 				EF67632A2C07F2C700BD878D /* Photo.swift */,
 				EF67632C2C07F41500BD878D /* CustomPhotoView.swift */,
+				EF67632E2C07F71300BD878D /* UTTypeView.swift */,
 			);
 			path = DragAndDropDemo;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 				EF67632B2C07F2C700BD878D /* Photo.swift in Sources */,
 				EF67632D2C07F41500BD878D /* CustomPhotoView.swift in Sources */,
 				EF6763202C07EC8E00BD878D /* Candidate.swift in Sources */,
+				EF67632F2C07F71300BD878D /* UTTypeView.swift in Sources */,
 				EF6763222C07ECB800BD878D /* Headshot.swift in Sources */,
 				EF6763292C07F11600BD878D /* PhotoView.swift in Sources */,
 				EF6763272C07EDF400BD878D /* HeadshotView.swift in Sources */,

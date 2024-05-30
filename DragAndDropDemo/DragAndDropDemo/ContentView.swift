@@ -35,6 +35,12 @@ struct ContentView: View {
                 } label: {
                     Text("Photo Picker Demo 2")
                 }
+                
+                NavigationLink {
+                    UTTypeView()
+                } label: {
+                    Text("UTType Explorer")
+                }
             }
         }
     }
